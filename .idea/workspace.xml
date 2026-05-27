@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30e47135-48ea-470a-ba66-383e654da240" name="Changes" comment="20260426">
+    <list default="true" id="30e47135-48ea-470a-ba66-383e654da240" name="Changes" comment="20260527">
+      <change afterPath="$PROJECT_DIR$/java_base/src/main/java/th/aqs/Demo4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_base/src/main/java/th/aqs/WaitAndNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_base/src/main/java/th/aqs/WaitAndNotifyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_base/target/classes/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +118,7 @@
     "应用程序.ChessBoard.executor": "Run",
     "应用程序.ClassAdapterExample.executor": "Run",
     "应用程序.Client.executor": "Run",
+    "应用程序.Demo4.executor": "Run",
     "应用程序.JavaExcelApplication.executor": "Run",
     "应用程序.JavaStrategyApplication.executor": "Run",
     "应用程序.Main.executor": "Run",
@@ -156,13 +158,26 @@
       <recent name="org.cp.springframework.test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.WaitAndNotifyDemo">
+  <component name="RunManager" selected="应用程序.Demo4">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.org.action.chain.Application" />
       <module name="20260425_design_patterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.org.action.chain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="th.aqs.Demo4" />
+      <module name="java_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="th.aqs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,19 +204,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.org.action.guava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.org.action.stock.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.action.stock.Main" />
-      <module name="20260425_design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.org.action.stock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Demo4" />
         <item itemvalue="应用程序.WaitAndNotifyDemo" />
         <item itemvalue="应用程序.Application" />
         <item itemvalue="应用程序.com.org.action.template.Main" />
         <item itemvalue="应用程序.com.org.action.guava.Main" />
-        <item itemvalue="应用程序.com.org.action.stock.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -597,7 +599,7 @@
       <option name="project" value="LOCAL" />
       <updated>1730964711606</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -613,7 +615,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="modify" />
     <MESSAGE value="哈希优化" />
     <MESSAGE value="二分查找" />
     <MESSAGE value="二分查找插入点" />
@@ -638,7 +639,8 @@
     <MESSAGE value="xss" />
     <MESSAGE value="20260425" />
     <MESSAGE value="20260426" />
-    <option name="LAST_COMMIT_MESSAGE" value="20260426" />
+    <MESSAGE value="20260527" />
+    <option name="LAST_COMMIT_MESSAGE" value="20260527" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
