@@ -36,6 +36,11 @@ public class WaitAndNotifyDemo {
             try {
                 log.info("before wait");
                 // 阻塞主线程
+                // 子线程很可能已经执行完毕，包括：
+                // 获取锁（synchronized (this)）
+                // 调用 notify()（第16行）
+                // 释放锁并结束
+                // 此时主线程调用wait()，由于notify()已经执行过了，所以主线程会一直阻塞
                 myThread.wait();
                 log.info("after wait");
             } catch (InterruptedException e) {

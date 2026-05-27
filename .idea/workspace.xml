@@ -5,125 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30e47135-48ea-470a-ba66-383e654da240" name="Changes" comment="20260426">
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/chain/array/HandlerA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/chain/array/HandlerB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/chain/array/HandlerChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/chain/array/IHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/chain/linked/AHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/chain/linked/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/chain/linked/BHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/chain/linked/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/chain/linked/HandlerChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/guava/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/guava/MessageEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/guava/MessageSubscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/subscriber/AppSubscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/subscriber/EventBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/subscriber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/subscriber/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/subscriber/WebSubscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/weather/AppClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/weather/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/weather/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/weather/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/weather/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/observer/weather/WebClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/stock/EventBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/stock/Investor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/stock/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/stock/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/stock/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/strategy/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/strategy/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/strategy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/strategy/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/strategy/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/strategy/Subtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/template/AbstractTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/template/ConcreteTemplateA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/template/ConcreteTemplateB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/action/template/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/adapter/classType/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/adapter/classType/ClassAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/adapter/classType/ClassAdapterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/adapter/classType/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/adapter/object/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/adapter/object/ObjectAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/adapter/object/ObjectAdapterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/adapter/object/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/ConcreteImplementorA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/ConcreteImplementorB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/DriverManger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/DriverMangerOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/DriverMangerTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/Implementor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/MysqlDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/OracleDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/bridgePattern/RefinedAbstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/composite/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/composite/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/composite/FileSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/composite/Folder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/decorator/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/decorator/ConcreteComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/decorator/ConcreteDecoratorA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/decorator/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/facade/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/facade/external/ExternalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/facade/external/ExternalServiceImpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/facade/external/ExternalServiceImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/facade/moreDatabase/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/facade/moreDatabase/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/facade/moreDatabase/DatabaseFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/facade/moreDatabase/MySQLDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/facade/moreDatabase/OracleDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/flyweight/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/flyweight/ChessPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/flyweight/ChessUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/flyweight/ChessUnitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/flyweight/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/aopProxy/Cache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/aopProxy/CacheAspectj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/aopProxy/DataQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/aopProxy/DatabaseDataQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/cacheProxy/CachingDataQueryProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/cacheProxy/DataQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/cacheProxy/DatabaseDataQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/cglibProxy/CacheMethodInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/cglibProxy/DatabaseDataQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/cglibProxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/dd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/jdkProxy/CacheInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/jdkProxy/DataQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/jdkProxy/DatabaseDataQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/jdkProxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/remoteProxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/remoteProxy/RemoteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/remoteProxy/RemoteServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/remoteProxy/RemoteServiceProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/safeProxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/safeProxy/SecurityProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/safeProxy/SensitiveDataQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/safeProxy/SensitiveDataQueryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/safeProxy/UserAuthenticator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/virtualProxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/virtualProxy/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/virtualProxy/LargeImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/structure/proxy/virtualProxy/VirtualImageProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20260425_design_patterns/src/test/java/AopTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20260425_design_patterns/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20260425_design_patterns/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/StartApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/StartApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/creational/EagerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/creational/EagerSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/creational/prototype/deepCopy/PromotionRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/20260425_design_patterns/src/main/java/com/org/creational/prototype/deepCopy/PromotionRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20260425_design_patterns/target/classes/com/org/StartApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/20260425_design_patterns/target/classes/com/org/StartApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20260425_design_patterns/target/classes/com/org/creational/prototype/shallowCopy/Playlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/20260425_design_patterns/target/classes/com/org/creational/prototype/shallowCopy/Playlist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_base/src/main/java/th/aqs/WaitAndNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_base/src/main/java/th/aqs/WaitAndNotifyDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +42,7 @@
   <component name="CopilotPersistence">
     <persistenceIdMap>
       <entry key="_/Users/andongni/IdeaProjects/java-code" value="2VqZuO0tfZFHLDZFkyU1eEV2rij" />
+      <entry key="_/Users/andongni/IdeaProjects/java-code-202605" value="3EJ9HrYcCBDXNXSwW7jIiIK4mB2" />
     </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -181,14 +65,22 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/sst888888/java-code.git&quot;,
-    &quot;accountId&quot;: &quot;a6c189fe-2fd2-4628-9eaa-f5bd0a4d12dd&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/andongni666999-ui/java-code-202605.git",
+    "accountId": "a6c189fe-2fd2-4628-9eaa-f5bd0a4d12dd"
   }
-}</component>
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Downloads/tool/localrepo" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.9.10/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -203,47 +95,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;JUnit.AopTest.testAop.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AopTest.test_dynamic.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SingletonTest.test01.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SingletonTest.testReflect.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/andongni/IdeaProjects/java-code/20260425_design_patterns/src/main/resources&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/andongni/IdeaProjects/java-code/20260425_design_patterns/src/main/java/com/org/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.24482758&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.network.NetworkConfigurable&quot;,
-    &quot;应用程序.Application.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ChessBoard.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ClassAdapterExample.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Client.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.JavaExcelApplication.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.JavaStrategyApplication.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ObjectAdapterExample.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ParamSecurityChecker.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Playlist.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SpringBootKafkaDemoApplication.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.org.action.guava.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.org.action.observer.subscriber.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.org.action.stock.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.org.action.template.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.org.structure.bridgePattern.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.org.structure.composite.Client.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.org.structure.decorator.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.org.structure.facade.moreDatabase.Client.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.org.structure.proxy.cglibProxy.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.org.structure.proxy.remoteProxy.Client.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.AopTest.testAop.executor": "Run",
+    "JUnit.AopTest.test_dynamic.executor": "Run",
+    "JUnit.SingletonTest.test01.executor": "Run",
+    "JUnit.SingletonTest.testReflect.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/andongni/IdeaProjects/java-code/20260425_design_patterns/src/main/resources",
+    "onboarding.tips.debug.path": "/Users/andongni/IdeaProjects/java-code/20260425_design_patterns/src/main/java/com/org/Main.java",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.24482758",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "应用程序.Application.executor": "Run",
+    "应用程序.ChessBoard.executor": "Run",
+    "应用程序.ClassAdapterExample.executor": "Run",
+    "应用程序.Client.executor": "Run",
+    "应用程序.JavaExcelApplication.executor": "Run",
+    "应用程序.JavaStrategyApplication.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.ObjectAdapterExample.executor": "Run",
+    "应用程序.ParamSecurityChecker.executor": "Run",
+    "应用程序.Playlist.executor": "Run",
+    "应用程序.SpringBootKafkaDemoApplication.executor": "Run",
+    "应用程序.WaitAndNotifyDemo.executor": "Run",
+    "应用程序.com.org.action.guava.Main.executor": "Run",
+    "应用程序.com.org.action.observer.subscriber.Main.executor": "Run",
+    "应用程序.com.org.action.stock.Main.executor": "Run",
+    "应用程序.com.org.action.template.Main.executor": "Run",
+    "应用程序.com.org.structure.bridgePattern.Main.executor": "Run",
+    "应用程序.com.org.structure.composite.Client.executor": "Run",
+    "应用程序.com.org.structure.decorator.Main.executor": "Run",
+    "应用程序.com.org.structure.facade.moreDatabase.Client.executor": "Run",
+    "应用程序.com.org.structure.proxy.cglibProxy.Main.executor": "Run",
+    "应用程序.com.org.structure.proxy.remoteProxy.Client.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/20260425_design_patterns/src/main/resources" />
@@ -263,7 +156,7 @@
       <recent name="org.cp.springframework.test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Application">
+  <component name="RunManager" selected="应用程序.WaitAndNotifyDemo">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.org.action.chain.Application" />
       <module name="20260425_design_patterns" />
@@ -277,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.org.action.guava.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.action.guava.Main" />
-      <module name="20260425_design_patterns" />
+    <configuration name="WaitAndNotifyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="th.aqs.WaitAndNotifyDemo" />
+      <module name="java_base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.action.guava.*" />
+          <option name="PATTERN" value="th.aqs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.org.action.observer.subscriber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.org.action.observer.subscriber.Main" />
+    <configuration name="com.org.action.guava.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.action.guava.Main" />
       <module name="20260425_design_patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.org.action.observer.subscriber.*" />
+          <option name="PATTERN" value="com.org.action.guava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.WaitAndNotifyDemo" />
         <item itemvalue="应用程序.Application" />
         <item itemvalue="应用程序.com.org.action.template.Main" />
         <item itemvalue="应用程序.com.org.action.guava.Main" />
         <item itemvalue="应用程序.com.org.action.stock.Main" />
-        <item itemvalue="应用程序.com.org.action.observer.subscriber.Main" />
       </list>
     </recent_temporary>
   </component>
