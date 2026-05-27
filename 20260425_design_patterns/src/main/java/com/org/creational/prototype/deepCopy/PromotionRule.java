@@ -15,10 +15,10 @@ public class PromotionRule implements Cloneable {
     protected PromotionRule clone() {
         try {
             PromotionRule promotionRule = (PromotionRule) super.clone();
-            if (null != product) {
-                Product product = (Product) product.clone();
-                promotionRule.setProduct(product);
-            }
+//            if (null != product) {
+//                Product product = (Product) product.clone();
+//                promotionRule.setProduct(product);
+//            }
 
             return promotionRule;
         } catch (CloneNotSupportedException e) {
